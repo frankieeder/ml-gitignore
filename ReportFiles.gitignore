@@ -1,0 +1,22 @@
+#################
+# Report Files #
+#################
+
+# PDF
+*.pdf
+
+# Microsoft Office
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# OpenOffice
+*.odt
+*.ods
+*.odp*
+*.odg*
+*.odf*
+

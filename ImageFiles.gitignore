@@ -1,0 +1,15 @@
+#################
+# Image Files #
+#################
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.eps
+

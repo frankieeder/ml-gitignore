@@ -1,0 +1,51 @@
+#################
+# Tabular Files #
+#################
+# https://pandas.pydata.org/pandas-docs/stable/reference/io.html
+
+# Pickle
+*.pkl
+
+# CSV
+*.csv
+*.tsv
+
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+
+# JSON
+*.json
+
+# HTML
+*.html
+
+# XML
+*.xml
+
+# HDF
+*.hdf5
+*.hdf
+*.hdf4
+
+# Feather
+*.feather
+
+# Parquet
+*.parquet
+*.parquet.*
+
+# ORC
+*.orc
+
+# SAS
+*.sas**
+*.sas7bdat
+
+# SPSS
+*.sav
+
+# Stata
+*.dta
+

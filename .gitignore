@@ -1,0 +1,123 @@
+##############################
+# Machine Learning Gitignore #
+##############################
+
+#################
+# Tabular Files #
+#################
+# https://pandas.pydata.org/pandas-docs/stable/reference/io.html
+
+# Pickle
+*.pkl
+
+# CSV
+*.csv
+*.tsv
+
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+
+# JSON
+*.json
+
+# HTML
+*.html
+
+# XML
+*.xml
+
+# HDF
+*.hdf5
+*.hdf
+*.hdf4
+
+# Feather
+*.feather
+
+# Parquet
+*.parquet
+*.parquet.*
+
+# ORC
+*.orc
+
+# SAS
+*.sas**
+*.sas7bdat
+
+# SPSS
+*.sav
+
+# Stata
+*.dta
+
+
+#################
+# Archive Files #
+#################
+
+*.zip*
+*.gz*
+*.tar*
+*.bz2*
+*.rar*
+*.7z*
+*.iso*
+*.img*
+*.wim*
+*.cab*
+*.arj*
+
+
+#################
+# Image Files #
+#################
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+*.svg
+*.eps
+
+
+#################
+# Report Files #
+#################
+
+# PDF
+*.pdf
+
+# Microsoft Office
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# OpenOffice
+*.odt
+*.ods
+*.odp*
+*.odg*
+*.odf*
+
+
+#################
+# OS Files #
+#################
+
+*.DS_Store
+*.Thumbs.db
+*.tmp
+*.tmp.*
+
+
+

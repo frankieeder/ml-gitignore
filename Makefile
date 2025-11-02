@@ -1,0 +1,2 @@
+render:
+	copier copy . . --force
