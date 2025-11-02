@@ -4,3 +4,13 @@ repos:
     hooks:
       - id: end-of-file-fixer
       - id: trailing-whitespace
+
+repos:
+  - repo: local
+    hooks:
+      - id: render
+        name: Render Jinja Templates
+        entry: bash -c 'make render'
+        language: system
+        types: [file]
+        pass_filenames: false
